@@ -69,17 +69,13 @@ namespace ModelLabsApp
 							string data = string.Format(item.Key +"  ,  "+ item.Value.Count + ". \n");
 							resultTbx.Text += data;
 							
-							if (item.Key.Substring(4).Equals("WindingTest"))
+							if (item.Key.Contains("WindingTest"))
                             {
-                                foreach (var obj in item.Value)
-                                {
-                                    if (obj.Key.Contains("939140759_TW1"))
-                                    {
-										WindingTest test = obj.Value as WindingTest;
-										resultTbx.Text += "Load Lose : " + test.LoadLoss.ToString();
-									
-                                    }
-                                }
+								
+								//SortedDictionary<string, object> testes = concreteModel.GetAllObjectsOfType(item.Key);
+								WindingTest test = concreteModel.GetObjectByID( "939140759_TW1_WT") as WindingTest;
+								resultTbx.Text += "Load Lose : " + test.LoadLoss.ToString();
+
                             }
                           
                         }

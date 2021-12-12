@@ -1,0 +1,11 @@
+C:\Users\TUF\Desktop\Integracija\Integracija\Vezba 6\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.csproj.AssemblyReference.cache
+C:\Users\TUF\Desktop\Integracija\Integracija\Vezba 6\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.ModelLabsAppForm.resources
+C:\Users\TUF\Desktop\Integracija\Integracija\Vezba 6\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.Properties.Resources.resources
+C:\Users\TUF\Desktop\Integracija\Integracija\Vezba 6\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.csproj.GenerateResource.cache
+C:\Users\TUF\Desktop\Integracija\Integracija\Vezba 6\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.csproj.CoreCompileInputs.cache
+C:\Users\TUF\Desktop\Integracija\Integracija\Vezba 6\ModelLabs\bin\Lib\PowerTransformerCIMProfile_Labs.dll
+C:\Users\TUF\Desktop\Integracija\Integracija\Vezba 6\ModelLabs\bin\ModelLabsApp.exe
+C:\Users\TUF\Desktop\Integracija\Integracija\Vezba 6\ModelLabs\bin\ModelLabsApp.pdb
+C:\Users\TUF\Desktop\Integracija\Integracija\Vezba 6\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.csproj.CopyComplete
+C:\Users\TUF\Desktop\Integracija\Integracija\Vezba 6\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.exe
+C:\Users\TUF\Desktop\Integracija\Integracija\Vezba 6\ModelLabs\ModelLabsApp\obj\x86\Debug\ModelLabsApp.pdb

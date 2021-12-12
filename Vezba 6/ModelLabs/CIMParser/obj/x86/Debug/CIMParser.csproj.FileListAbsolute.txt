@@ -1,0 +1,6 @@
+C:\Users\TUF\Desktop\Integracija\Integracija\Vezba 6\ModelLabs\bin\CIMParser.dll
+C:\Users\TUF\Desktop\Integracija\Integracija\Vezba 6\ModelLabs\bin\CIMParser.pdb
+C:\Users\TUF\Desktop\Integracija\Integracija\Vezba 6\ModelLabs\CIMParser\obj\x86\Debug\CIMParser.csproj.AssemblyReference.cache
+C:\Users\TUF\Desktop\Integracija\Integracija\Vezba 6\ModelLabs\CIMParser\obj\x86\Debug\CIMParser.csproj.CoreCompileInputs.cache
+C:\Users\TUF\Desktop\Integracija\Integracija\Vezba 6\ModelLabs\CIMParser\obj\x86\Debug\CIMParser.dll
+C:\Users\TUF\Desktop\Integracija\Integracija\Vezba 6\ModelLabs\CIMParser\obj\x86\Debug\CIMParser.pdb
