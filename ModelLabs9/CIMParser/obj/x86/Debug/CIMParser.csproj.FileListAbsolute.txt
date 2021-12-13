@@ -1,0 +1,11 @@
+D:\SSELENA\ALL Work\Work\MyTools\ESI\ModelLabs9\bin\CIMParser.dll
+D:\SSELENA\ALL Work\Work\MyTools\ESI\ModelLabs9\bin\CIMParser.pdb
+D:\SSELENA\ALL Work\Work\MyTools\ESI\ModelLabs9\CIMParser\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SSELENA\ALL Work\Work\MyTools\ESI\ModelLabs9\CIMParser\obj\x86\Debug\CIMParser.dll
+D:\SSELENA\ALL Work\Work\MyTools\ESI\ModelLabs9\CIMParser\obj\x86\Debug\CIMParser.pdb
+C:\Users\TUF\Desktop\ModelLabs9\bin\CIMParser.dll
+C:\Users\TUF\Desktop\ModelLabs9\bin\CIMParser.pdb
+C:\Users\TUF\Desktop\ModelLabs9\CIMParser\obj\x86\Debug\CIMParser.csproj.AssemblyReference.cache
+C:\Users\TUF\Desktop\ModelLabs9\CIMParser\obj\x86\Debug\CIMParser.csproj.CoreCompileInputs.cache
+C:\Users\TUF\Desktop\ModelLabs9\CIMParser\obj\x86\Debug\CIMParser.dll
+C:\Users\TUF\Desktop\ModelLabs9\CIMParser\obj\x86\Debug\CIMParser.pdb

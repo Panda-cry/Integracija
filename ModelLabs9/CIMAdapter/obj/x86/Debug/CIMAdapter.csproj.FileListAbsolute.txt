@@ -1,0 +1,12 @@
+D:\SSELENA\ALL Work\Work\MyTools\ESI\ModelLabs9\CIMAdapter\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SSELENA\ALL Work\Work\MyTools\ESI\ModelLabs9\bin\FTN.ESI.SIMES.CIM.CIMAdapter.dll
+D:\SSELENA\ALL Work\Work\MyTools\ESI\ModelLabs9\bin\FTN.ESI.SIMES.CIM.CIMAdapter.pdb
+D:\SSELENA\ALL Work\Work\MyTools\ESI\ModelLabs9\CIMAdapter\obj\x86\Debug\FTN.ESI.SIMES.CIM.CIMAdapter.dll
+D:\SSELENA\ALL Work\Work\MyTools\ESI\ModelLabs9\CIMAdapter\obj\x86\Debug\FTN.ESI.SIMES.CIM.CIMAdapter.pdb
+C:\Users\TUF\Desktop\ModelLabs9\bin\FTN.ESI.SIMES.CIM.CIMAdapter.dll
+C:\Users\TUF\Desktop\ModelLabs9\bin\FTN.ESI.SIMES.CIM.CIMAdapter.pdb
+C:\Users\TUF\Desktop\ModelLabs9\CIMAdapter\obj\x86\Debug\CIMAdapter.csproj.AssemblyReference.cache
+C:\Users\TUF\Desktop\ModelLabs9\CIMAdapter\obj\x86\Debug\CIMAdapter.csproj.CoreCompileInputs.cache
+C:\Users\TUF\Desktop\ModelLabs9\CIMAdapter\obj\x86\Debug\CIMAdapter.csproj.CopyComplete
+C:\Users\TUF\Desktop\ModelLabs9\CIMAdapter\obj\x86\Debug\FTN.ESI.SIMES.CIM.CIMAdapter.dll
+C:\Users\TUF\Desktop\ModelLabs9\CIMAdapter\obj\x86\Debug\FTN.ESI.SIMES.CIM.CIMAdapter.pdb
