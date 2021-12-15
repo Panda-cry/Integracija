@@ -1,0 +1,40 @@
+15.12.2021. 15:59:47 : Network Model Service Test Client is up and running...
+15.12.2021. 15:59:47 : Result directory: ../Results
+15.12.2021. 16:00:14 : Apply update method started.
+15.12.2021. 16:00:15 : Apply update method finished. 
+Update result: Succeeded
+Message: Applying delta to network model successfully finished.
+GlobalId pairs:
+Client globalId: 0x00000001ffffffff	 - Server globalId: 0x0000000100000006
+Client globalId: 0x00000002ffffffff	 - Server globalId: 0x0000000200000024
+Client globalId: 0x00000003ffffffff	 - Server globalId: 0x0000000300000024
+Client globalId: 0x00000004ffffffff	 - Server globalId: 0x0000000400000047
+Client globalId: 0x00000005ffffffff	 - Server globalId: 0x000000050000000b
+
+15.12.2021. 16:00:15 : Testing apply delta update method started.
+15.12.2021. 16:00:15 : Testing apply delta update method finished. 
+Update result: Succeeded
+Message: Applying delta to network model successfully finished.
+GlobalId pairs:
+
+15.12.2021. 16:00:15 : Testing apply delta delete method started.
+15.12.2021. 16:00:15 : Testing apply delta delete method finished. 
+Update result: Succeeded
+Message: Applying delta to network model successfully finished.
+GlobalId pairs:
+
+15.12.2021. 16:20:48 : Network Model Service Test Client is up and running...
+15.12.2021. 16:20:48 : Result directory: ../Results
+15.12.2021. 16:21:27 : Getting extent values method started.
+15.12.2021. 16:21:29 : Getting extent values method successfully finished.
+15.12.2021. 16:21:32 : Getting extent values method started.
+15.12.2021. 16:21:32 : Getting extent values method successfully finished.
+15.12.2021. 16:21:32 : Getting related values method started.
+15.12.2021. 16:29:33 : Network Model Service Test Client is up and running...
+15.12.2021. 16:29:33 : Result directory: ../Results
+15.12.2021. 16:29:58 : Getting extent values method started.
+15.12.2021. 16:29:59 : Getting extent values method successfully finished.
+15.12.2021. 16:30:01 : Getting extent values method started.
+15.12.2021. 16:30:02 : Getting extent values method successfully finished.
+15.12.2021. 16:30:02 : Getting related values method started.
+15.12.2021. 16:30:02 : Getting related values method successfully finished.
